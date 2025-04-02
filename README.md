@@ -1,2 +1,3 @@
 # chahal
-this is my first repo
+this is my first 
+author ankit 
